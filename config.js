@@ -1,8 +1,8 @@
 global.owner = ['62895331520602']  
 global.mods = ['62895331520602'] 
 global.prems = ['62895331520602']
-global.nameowner = 'Tio'
-global.numberowner = '62895331520602' 
+global.nameowner = 'Codex'
+global.numberowner = '2348058496605' 
 global.mail = 'support@tioprm.eu.org' 
 global.gc = 'https://chat.whatsapp.com/I5RpePh2b5u37OyFjzCNTr'
 global.instagram = 'https://instagram.com/prm2.0'
@@ -21,7 +21,7 @@ global.gcspam = false // Set true/false untuk menutup grup ketika spam (default:
     
 
 // APIKEY INI WAJIB DI ISI! //
-global.btc = 'YOUR_APIKEY_HERE' 
+global.btc = 'tj3Dp2p4' 
 //Daftar terlebih dahulu https://api.botcahx.eu.org
 
 
